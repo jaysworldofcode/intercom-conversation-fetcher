@@ -1,4 +1,4 @@
-# Intercom Conversation Automated
+# Intercom Conversation Fetcher
 The goal for this project is to fetch all your conversation from intercom and output to JSON format.
 
 ## Installation
