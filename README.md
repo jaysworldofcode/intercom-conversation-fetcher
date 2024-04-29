@@ -19,7 +19,5 @@ Download and Install python
 ## Usage
 
 ```bash
-python main.py {url} {recursion_depth_limit}
-
-ex: python main.py https://news.ycombinator.com/ 2
+python main.py
 ```
