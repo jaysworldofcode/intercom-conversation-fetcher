@@ -3,8 +3,8 @@ The goal for this project is to fetch all your conversation from intercom and ou
 
 ## Installation
 Download and Install python
-	For Windows: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
-	For MacOS: https://www.python.org/ftp/python/3.11.5/python-3.11.5-macos11.pkg <br>
+	<br>For Windows: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+	<br>For MacOS: https://www.python.org/ftp/python/3.11.5/python-3.11.5-macos11.pkg <br>
 
 1. Clone the repo
    ```sh
